@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338997140246",
+    "firebase_url": "https://mesquita-7a24c.firebaseio.com",
+    "project_id": "mesquita-7a24c",
+    "storage_bucket": "mesquita-7a24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338997140246:android:2d6fc6c5c7724c96acce37",
+        "android_client_info": {
+          "package_name": "com.example.mesquitaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338997140246-au50jjg2vm5ofvkh39ea4kge9fk3m0b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mesquitaapp",
+            "certificate_hash": "f72a510a492d945c241dc429b3e829800f4ec9c4"
+          }
+        },
+        {
+          "client_id": "338997140246-77qi5shf7gm3okivqgq6lc6mdsqcj1lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAke1EYbOkGHTpTBA9dgK3EsQ4r4QR02wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338997140246-77qi5shf7gm3okivqgq6lc6mdsqcj1lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
